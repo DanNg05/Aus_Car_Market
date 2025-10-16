@@ -12,5 +12,10 @@ This repository contains a Power BI report analysing the Australian car market, 
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. No additional configuration is required.
 
+Screenshots:
+Inventory dashboard:
 <img width="2081" height="1167" alt="image" src="https://github.com/user-attachments/assets/eaf9fc0d-8430-4ecb-b153-dbe626489964" />
+
+Car evaluation dashboard:
 <img width="2080" height="1168" alt="image" src="https://github.com/user-attachments/assets/aac069a3-b99e-4172-a03a-45ef34787803" />
+
