@@ -34,12 +34,14 @@ This approach enables dealerships to align their purchasing and marketing strate
 
 
 Car evaluation dashboard:
-<img width="1955" height="1101" alt="image" src="https://github.com/user-attachments/assets/aa9f932a-c077-4e1c-ad4b-1054297ea89b" />
+<img width="1959" height="1100" alt="image" src="https://github.com/user-attachments/assets/6530ce25-5266-4d4a-b006-bdcecd4a6f1b" />
+
 
 
 
 
 With an advanced evaluation dashboard, used car dealerships can benchmark individual vehicles against comparable models by analysing key attributes such as model year, color, and car type (number of seats) directly related to current market prices. This enables dealers to pinpoint the optimal price range for acquiring cars, ensuring that purchase decisions are data-driven and positioned for maximum resale margin. By leveraging these insights, dealerships can confidently select inventory that aligns with market demand and profitability targets, reducing investment risk and boosting overall returns. 
+
 
 
 
