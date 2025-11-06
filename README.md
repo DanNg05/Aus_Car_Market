@@ -15,7 +15,8 @@ This repository contains a Power BI report analysing the Australian car market, 
 ## DASHBOARD
 
 Inventory dashboard:
-<img width="1958" height="1101" alt="image" src="https://github.com/user-attachments/assets/54a47169-7ff8-4e03-82b2-919793e77829" />
+<img width="1955" height="1100" alt="image" src="https://github.com/user-attachments/assets/2889cf78-cb66-49d7-aa4e-05b8bb2c0e79" />
+
 
 
 
@@ -34,13 +35,15 @@ This approach enables dealerships to align their purchasing and marketing strate
 
 
 Car evaluation dashboard:
-<img width="1959" height="1100" alt="image" src="https://github.com/user-attachments/assets/6530ce25-5266-4d4a-b006-bdcecd4a6f1b" />
+<img width="1954" height="1097" alt="image" src="https://github.com/user-attachments/assets/bd9e7ec7-80a8-42ff-bc0d-6c2486db071c" />
+
 
 
 
 
 
 With an advanced evaluation dashboard, used car dealerships can benchmark individual vehicles against comparable models by analysing key attributes such as model year, color, and car type (number of seats) directly related to current market prices. This enables dealers to pinpoint the optimal price range for acquiring cars, ensuring that purchase decisions are data-driven and positioned for maximum resale margin. By leveraging these insights, dealerships can confidently select inventory that aligns with market demand and profitability targets, reducing investment risk and boosting overall returns. 
+
 
 
 
